@@ -5,7 +5,7 @@ CSE graduate from CUET with a strong focus on MERN stack development. Experience
 Currently focused on building full-stack projects, improving code quality, and contributing to the MERN ecosystem through real-world applications and open-source work.
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Shuva%20Kumar%20Nath&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="./Shuva Kumar Nath.gif" />
 
 <h3 align="center">MERN Stack Developer | CSE Graduate (CUET)</h3>
 
