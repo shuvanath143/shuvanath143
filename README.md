@@ -10,6 +10,7 @@
 I am a **Computer Science & Engineering graduate from CUET** with a strong focus on **MERN stack development**.  
 I enjoy building **scalable, user-focused web applications** using modern JavaScript technologies.  
 Currently, I am improving my full-stack skills and contributing to real-world projects. Moreover, I have focused on machine and deep learning to integrate in real-world projects to enhance performance and automation.
+
 ---
 
 ## 🚀 Current Activities
@@ -71,4 +72,4 @@ Currently, I am improving my full-stack skills and contributing to real-world pr
 
 ---
 
-⭐ *Always learning, building, and contributing to the MERN ecosystem.*
+⭐ *Focused on learing, Building and Enhancing my contribution to the MERN and AI based Projects.*
