@@ -16,7 +16,7 @@ Currently, I am improving my full-stack skills and contributing to real-world pr
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js** and advanced React patterns  
-- 🛠 Working on **Online Veterinary Hospital platofrm using Next.Js and Tailwind CSS**  
+- 🛠 Working on **Online Veterinary Hospital platform using Next.Js and Tailwind CSS**  
 - 💻 Building responsive and scalable web applications  
 - 📚 Strengthening backend & database design skills  
 
@@ -62,14 +62,9 @@ Currently, I am improving my full-stack skills and contributing to real-world pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvanath143&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=shuvanath143&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvanath143&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=shuvanath143&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-⭐ *Focused on learing, Building and Enhancing my contribution to the MERN and AI based Projects.*
+⭐ *Focused on Learning, Building and Enhancing my contribution to the MERN and AI based Projects.*
