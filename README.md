@@ -1,9 +1,3 @@
-MERN Stack Developer | CSE Graduate, CUET
-
-CSE graduate from CUET with a strong focus on MERN stack development. Experienced in React.js, Next.js, Node.js, Express.js, and MongoDB, with solid fundamentals in JavaScript, OOP (C++, Python), and DBMS.
-
-Currently focused on building full-stack projects, improving code quality, and contributing to the MERN ecosystem through real-world applications and open-source work.
-
 <!-- Banner -->
 <img src="./Shuva Kumar Nath.gif" />
 
@@ -15,14 +9,13 @@ Currently focused on building full-stack projects, improving code quality, and c
 
 I am a **Computer Science & Engineering graduate from CUET** with a strong focus on **MERN stack development**.  
 I enjoy building **scalable, user-focused web applications** using modern JavaScript technologies.  
-Currently, I am improving my full-stack skills and contributing to real-world projects.
-
+Currently, I am improving my full-stack skills and contributing to real-world projects. Moreover, I have focused on machine and deep learning to integrate in real-world projects to enhance performance and automation.
 ---
 
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js** and advanced React patterns  
-- 🛠 Working on **full-stack MERN projects**  
+- 🛠 Working on **Online Veterinary Hospital platofrm using Next.Js and Tailwind CSS**  
 - 💻 Building responsive and scalable web applications  
 - 📚 Strengthening backend & database design skills  
 
@@ -55,10 +48,10 @@ Currently, I am improving my full-stack skills and contributing to real-world pr
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/shuvanath143" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/shuva-kumar-nath-skn" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -68,12 +61,12 @@ Currently, I am improving my full-stack skills and contributing to real-world pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvanath143&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvanath143&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvanath143&layout=compact&theme=tokyonight" />
 </p>
 
 ---
